@@ -1,0 +1,6 @@
+aspell
+uuid
+hdparm
+unixODBC
+php-pecl-zip
+usbip

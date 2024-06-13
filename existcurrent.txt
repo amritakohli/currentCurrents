@@ -1,185 +1,172 @@
-2024-06-13 00:28:19,321 - WARNING - aspell - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/aspell
-2024-06-13 00:28:21,558 - WARNING - uuid - cannot guess next version -> cannot query ftp://ftp.ossp.org/pkg/lib/uuid
-2024-06-13 00:28:23,161 - WARNING - hdparm - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/hdparm
-2024-06-13 00:28:39,337 - WARNING - unixODBC - cannot guess next version -> only 0 link to tarball(s) found at http://www.unixodbc.org
-2024-06-13 00:28:50,414 - WARNING - php-pecl-zip - cannot guess next version -> http 404 -> https://pecl.php.net/get
-2024-06-13 00:28:50,801 - WARNING - usbip - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:28:51,470 - WARNING - rubygem-aws-sdk-s3 - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:28:56,309 - WARNING - tboot - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/tboot
-2024-06-13 00:29:01,482 - WARNING - net-tools - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/project/net-tools
-2024-06-13 00:29:05,847 - WARNING - sgml-common - cannot guess next version -> only 1 link to tarball(s) found at https://sourceware.org/ftp/docbook-tools/new-trials/SOURCES
-2024-06-13 00:29:11,511 - WARNING - libgdiplus - cannot guess next version -> http 404 -> https://download.mono-project.com/sources/libgdiplus
-2024-06-13 00:29:15,226 - WARNING - nspr - cannot guess next version -> http 404 -> https://archive.mozilla.org/pub/nspr/releases/v4.30/src
-2024-06-13 00:29:24,985 - WARNING - CUnit - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/cunit
-2024-06-13 00:29:38,994 - WARNING - libmetalink - cannot guess next version -> http 404 -> https://launchpad.net/libmetalink/trunk/libmetalink-0.1.3/+download
-2024-06-13 00:29:40,356 - WARNING - psmisc - cannot guess next version -> http 404 -> http://prdownloads.sourceforge.net/psmisc
-2024-06-13 00:29:42,529 - WARNING - python-junit-xml cannot get next versions - no tags (https://github.com/kyrus/python-junit-xml)
-2024-06-13 00:29:45,937 - WARNING - gnuplot - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/gnuplot
-2024-06-13 00:29:48,142 - WARNING - cloud-utils-growpart - cannot guess next version -> http 404 -> https://launchpad.net/cloud-utils/trunk/0.32/+download
-2024-06-13 00:29:49,909 - WARNING - libisofs - cannot guess next version -> http 404 -> https://dev.lovelyhq.com/libburnia/libisofs/archive
-2024-06-13 00:29:57,055 - WARNING - ofed-scripts - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/doca/1.3.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
-2024-06-13 00:29:58,438 - WARNING - rubygem-aws-sdk-kms - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:30:06,057 - WARNING - quotatool - cannot guess next version -> only 0 link to tarball(s) found at http://quotatool.ekenberg.se
-2024-06-13 00:30:10,189 - WARNING - gtk3 - cannot guess next version -> only 0 link to tarball(s) found at https://download.gnome.org/sources/gtk+/3.24
-2024-06-13 00:30:53,723 - WARNING - pcsc-lite - cannot guess next version -> only 0 link to tarball(s) found at https://pcsclite.apdu.fr/files
-2024-06-13 00:30:59,756 - WARNING - atftp - cannot guess next version -> only 0 link to tarball(s) found at http://sourceforge.net/projects/atftp/files/latest/download
-2024-06-13 00:31:02,075 - WARNING - libgudev - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/libgudev/237
-2024-06-13 00:31:02,166 - WARNING - maven-resolver - cannot guess next version -> cannot get tarball name or extension from "https://archive.apache.org/dist/maven/resolver/maven-resolver-1.7.3-source-release.zip"
-2024-06-13 00:31:02,685 - WARNING - google-roboto-slab-fonts - cannot guess next version -> cannot get tarball name or extension from "https://fonts.google.com/download?family=Roboto%20Slab"
-2024-06-13 00:31:03,283 - WARNING - cpulimit - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/limitcpu
-2024-06-13 00:31:26,508 - WARNING - gtk2 - cannot guess next version -> only 0 link to tarball(s) found at https://download.gnome.org/sources/gtk+/2.24
-2024-06-13 00:31:26,624 - WARNING - byacc - cannot guess next version -> cannot get tarball name or extension from "https://invisible-mirror.net/archives/byacc/byacc-20220109.tgz"
-2024-06-13 00:31:29,532 - WARNING - libxfce4util - cannot guess next version -> only 1 link to tarball(s) found at https://archive.xfce.org/src/xfce/libxfce4util/4.14
-2024-06-13 00:31:32,107 - WARNING - python-dateutil -> cannot find dateutil project on pypi (https://pypi.org/project/dateutil)
-2024-06-13 00:31:43,266 - WARNING - libtraceevent - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git/snapshot
-2024-06-13 00:31:51,772 - WARNING - debootstrap - cannot guess next version -> cannot get tarball name or extension from "https://deb.debian.org/debian/pool/main/d/debootstrap/debootstrap_1.0.128+nmu2.tar.gz"
-2024-06-13 00:32:11,266 - WARNING - mac-robber - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/mac-robber
-2024-06-13 00:32:14,703 - WARNING - libpng - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/libpng
-2024-06-13 00:32:30,999 - WARNING - freetype - cannot guess next version -> http 406 -> https://download.savannah.gnu.org/releases/freetype
-2024-06-13 00:32:36,489 - WARNING - maven-surefire - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:32:37,645 - WARNING - gobject-introspection - cannot guess next version -> only 1 link to tarball(s) found at https://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.71
-2024-06-13 00:32:39,029 - WARNING - maven-resources-plugin - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0-source-release.zip"
-2024-06-13 00:32:39,279 - WARNING - crash-gcore-command cannot get next versions - no tags (https://github.com/crash-utility/crash-extensions)
-2024-06-13 00:32:43,969 - WARNING - rubygem-aws-sdk-sqs - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:32:50,307 - WARNING - libburn - cannot guess next version -> http 404 -> https://dev.lovelyhq.com/libburnia/libburn/archive
-2024-06-13 00:32:52,528 - WARNING - glusterfs - cannot guess next version -> only 1 link to tarball(s) found at https://download.gluster.org/pub/gluster/glusterfs/7/7.9
-2024-06-13 00:32:57,802 - WARNING - zip - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/infozip/zip30.tar.gz"
-2024-06-13 00:33:00,119 - WARNING - docbook-dtds - cannot guess next version -> cannot get tarball name or extension from "https://www.oasis-open.org/docbook/sgml/3.0/docbk30.zip"
-2024-06-13 00:33:04,760 - WARNING - glibmm - cannot guess next version -> only 1 link to tarball(s) found at http://ftp.gnome.org/pub/GNOME/sources/glibmm/2.70
-2024-06-13 00:33:08,298 - WARNING - acpica-tools - cannot guess next version -> only 0 link to tarball(s) found at https://acpica.org/sites/acpica/files
-2024-06-13 00:33:32,727 - WARNING - chrpath - cannot guess next version -> only 1 link to tarball(s) found at https://alioth-archive.debian.org/releases/chrpath/chrpath/0.16
-2024-06-13 00:33:43,590 - WARNING - ncurses - cannot guess next version -> cannot get tarball name or extension from "https://invisible-mirror.net/archives/ncurses/current/ncurses-6.4-20230423.tgz"
-2024-06-13 00:33:43,748 - WARNING - tcl - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/sourceforge/tcl/tcl-core8.6.13-src.tar.gz"
-2024-06-13 00:33:44,082 - WARNING - moby-containerd-cc cannot get next versions - no tags (https://github.com/microsoft/confidential-containers-containerd)
-2024-06-13 00:33:53,616 - WARNING - libkcapi - cannot guess next version -> only 0 link to tarball(s) found at https://www.chronox.de/libkcapi
-2024-06-13 00:33:58,281 - WARNING - openvswitch - cannot guess next version -> http 404 -> http://openvswitch.org/releases
-2024-06-13 00:33:58,389 - WARNING - libedit - cannot guess next version -> cannot get tarball name or extension from "https://www.thrysoee.dk/editline/libedit-20210910-3.1.tar.gz"
-2024-06-13 00:33:59,790 - WARNING - bazel-workspaces cannot get next versions - no tags (https://github.com/kubic-project/bazel-workspaces)
-2024-06-13 00:34:00,012 - WARNING - giflib - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/giflib
-2024-06-13 00:34:01,468 - WARNING - perl-XML-SAX - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:34:02,994 - WARNING - expect - cannot guess next version -> cannot get tarball name or extension from "https://sourceforge.net/projects/expect/files/Expect/5.45.4/expect5.45.4.tar.gz"
-2024-06-13 00:34:03,105 - WARNING - libfontenc - cannot guess next version -> cannot query ftp://ftp.x.org/pub/individual/lib
-2024-06-13 00:34:05,094 - WARNING - cloud-hypervisor-cvm cannot get next versions - no tags (https://github.com/microsoft/cloud-hypervisor)
-2024-06-13 00:36:14,972 - WARNING - tree - cannot guess next version -> cannot query http://mama.indstate.edu/users/ice/tree/src
-2024-06-13 00:36:16,638 - WARNING - atop - cannot guess next version -> http 403 -> http://www.atoptool.nl/download
-2024-06-13 00:36:23,517 - WARNING - openmpi - cannot guess next version -> http 403 -> https://www.open-mpi.org/software/ompi/v4.1/downloads
-2024-06-13 00:36:23,934 - WARNING - help2man - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/help2man
-2024-06-13 00:36:24,309 - WARNING - google-guice - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:36:27,229 - WARNING - gdk-pixbuf2 - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/gdk-pixbuf/2.40
-2024-06-13 00:36:38,031 - WARNING - libpipeline - cannot guess next version -> http 406 -> http://download.savannah.gnu.org/releases/libpipeline
-2024-06-13 00:36:40,225 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,230 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,236 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,241 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,247 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,288 - WARNING - Cannot find download URL for component azurelinux-sysinfo-2.0 in cgmanifest
-2024-06-13 00:36:40,288 - WARNING - azurelinux-sysinfo -> cannot guess next version - tarball domain not handled by tool yet ()
-2024-06-13 00:36:42,330 - WARNING - OpenIPMI - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/openipmi
-2024-06-13 00:36:43,502 - WARNING - mozjs - cannot guess next version -> cannot get tarball name or extension from "https://ftp.mozilla.org/pub/firefox/releases/78.10.0esr/source/firefox-78.10.0esr.source.tar.xz"
-2024-06-13 00:36:50,346 - WARNING - nfs-utils - cannot guess next version -> only 1 link to tarball(s) found at https://www.kernel.org/pub/linux/utils/nfs-utils/2.5.4
-2024-06-13 00:36:58,495 - WARNING - antlr - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:37:04,190 - WARNING - unzip - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/infozip/unzip60.tar.gz"
-2024-06-13 00:37:09,192 - WARNING - pwgen - cannot guess next version -> http 404 -> https://download.sf.net/pwgen
-2024-06-13 00:37:11,518 - WARNING - doxygen - cannot guess next version -> http 403 -> https://doxygen.nl/files
-2024-06-13 00:37:16,860 - WARNING - java-cup-bootstrap - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/develop.tar.bz2"
-2024-06-13 00:37:16,951 - WARNING - java-cup - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/develop.tar.bz2"
-2024-06-13 00:37:17,261 - WARNING - blobfuse cannot get next versions - no tags (https://github.com/Azure/azure-storage-fuse)
-2024-06-13 00:37:18,015 - WARNING - tuna - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/utils/tuna/tuna.git/snapshot
-2024-06-13 00:37:20,537 - WARNING - atk - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/atk/2.36
-2024-06-13 00:37:21,219 - WARNING - wayland-protocols - cannot guess next version -> http 404 -> https://wayland.freedesktop.org/releases
-2024-06-13 00:37:57,045 - WARNING - hvloader cannot get next versions - no tags (https://github.com/microsoft/HvLoader)
-2024-06-13 00:38:01,260 - WARNING - xz-java - cannot guess next version -> only 0 link to tarball(s) found at http://tukaani.org/xz
-2024-06-13 00:38:08,088 - WARNING - attr - cannot guess next version -> http 406 -> https://download.savannah.nongnu.org/releases/attr
-2024-06-13 00:38:08,679 - WARNING - pgbouncer - cannot guess next version -> http 404 -> https://pgbouncer.github.io/downloads/files/1.16.1
-2024-06-13 00:38:18,621 - WARNING - azl-compliance - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:38:22,237 - WARNING - moreutils - cannot guess next version -> only 1 link to tarball(s) found at https://deb.debian.org/debian/pool/main/m/moreutils
-2024-06-13 00:38:25,712 - WARNING - jsonbuilder cannot get next versions - no tags (https://github.com/microsoft/jsonbuilder)
-2024-06-13 00:38:28,476 - WARNING - knem - cannot guess next version -> cannot get tarball name or extension from "https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES/knem_1.1.4.90mlnx1.orig.tar.gz"
-2024-06-13 00:38:32,144 - WARNING - less - cannot guess next version -> only 0 link to tarball(s) found at https://www.greenwoodsoftware.com/less
-2024-06-13 00:38:56,439 - WARNING - words - cannot guess next version -> cannot get tarball name or extension from "https://web.archive.org/web/20060527013227/http://www.dcs.shef.ac.uk/research/ilash/Moby/mwords.tar.Z"
-2024-06-13 00:38:56,594 - WARNING - postfix - cannot guess next version -> cannot query ftp://ftp.porcupine.org/mirrors/postfix-release/official
-2024-06-13 00:38:57,190 - WARNING - time - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/time
-2024-06-13 00:38:58,115 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,121 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,126 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,131 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,137 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,142 - WARNING - Cannot find download URL for component kata-packages-uvm-1.0.0 in cgmanifest
-2024-06-13 00:38:58,142 - WARNING - kata-packages-uvm -> cannot guess next version - tarball domain not handled by tool yet ()
-2024-06-13 00:39:11,142 - WARNING - luajit - cannot guess next version -> cannot get tarball name or extension from "https://luajit.org/download/LuaJIT-2.1.0-beta3.tar.gz"
-2024-06-13 00:39:13,995 - WARNING - libdb - cannot guess next version -> http 404 -> http://download.oracle.com/berkeley-db
-2024-06-13 00:39:15,164 - WARNING - rpcbind - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/rpcbind
-2024-06-13 00:39:23,450 - WARNING - kubernetes - cannot guess next version -> cannot get tarball name or extension from "https://dl.k8s.io/v1.28.4/kubernetes-src.tar.gz"
-2024-06-13 00:39:33,556 - WARNING - memcached - cannot guess next version -> http 404 -> https://www.memcached.org/files
-2024-06-13 00:39:34,207 - WARNING - maven-wagon - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/3.5.1/wagon-3.5.1-source-release.zip"
-2024-06-13 00:39:42,017 - WARNING - iotop - cannot guess next version -> http 403 -> http://guichaz.free.fr/iotop/files
-2024-06-13 00:39:48,572 - WARNING - maven-compiler-plugin - cannot guess next version -> cannot get tarball name or extension from "https://archive.apache.org/dist/maven/plugins/maven-compiler-plugin-3.8.1-source-release.zip"
-2024-06-13 00:39:49,970 - WARNING - orangefs - cannot guess next version -> http 404 -> https://s3.amazonaws.com/download.orangefs.org/current/source
-2024-06-13 00:39:52,666 - WARNING - libjpeg-turbo - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/libjpeg-turbo
-2024-06-13 00:39:53,019 - WARNING - linux-firmware - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/snapshot
-2024-06-13 00:39:54,278 - WARNING - syslinux - cannot guess next version -> cannot get tarball name or extension from "https://www.kernel.org/pub/linux/utils/boot/syslinux/Testing/6.04/syslinux-6.04-pre1.tar.xz"
-2024-06-13 00:39:57,905 - WARNING - libtirpc - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/libtirpc
-2024-06-13 00:39:58,196 - WARNING - application-gateway-kubernetes-ingress cannot get next versions - no tags (https://github.com/Azure/application-gateway-kubernetes-ingress)
-2024-06-13 00:39:59,169 - WARNING - mlnx-tools - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
-2024-06-13 00:39:59,912 - WARNING - wireguard-tools - cannot guess next version -> http 400 -> https://git.zx2c4.com/wireguard-tools/snapshot
-2024-06-13 00:40:00,297 - WARNING - nodejs18 - cannot guess next version -> only 1 link to tarball(s) found at https://nodejs.org/download/release/v18.20.2
-2024-06-13 00:40:03,219 - WARNING - docbook-dtd-xml - cannot guess next version -> only 1 link to tarball(s) found at https://docbook.org/xml/4.5
-2024-06-13 00:40:06,495 - WARNING - libdwarf - cannot guess next version -> only 0 link to tarball(s) found at https://www.prevanders.net
-2024-06-13 00:40:21,185 - WARNING - archivemount - cannot guess next version -> cannot query https://www.cybernoia.de/software/archivemount
-2024-06-13 00:40:21,478 - WARNING - GSL cannot get next versions - no tags (https://github.com/microsoft/GSL)
-2024-06-13 00:40:29,781 - WARNING - rsyslog - cannot guess next version -> http 404 -> https://www.rsyslog.com/files/download/rsyslog
-2024-06-13 00:40:41,965 - WARNING - rpm-mpi-hooks - cannot guess next version -> cannot get tarball name or extension from "https://src.fedoraproject.org/rpms/rpm-mpi-hooks/raw/f37/f/mpi.attr"
-2024-06-13 00:40:43,284 - WARNING - guile - cannot guess next version -> cannot query ftp://ftp.gnu.org/pub/gnu/guile
-2024-06-13 00:40:45,246 - WARNING - rtctl - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:40:45,350 - WARNING - dhcp - cannot guess next version -> cannot query ftp://ftp.isc.org/isc/dhcp/4.4.3
-2024-06-13 00:40:49,485 - WARNING - SymCrypt cannot get next versions - no tags (https://github.com/microsoft/SymCrypt)
-2024-06-13 00:40:49,862 - WARNING - xml-commons-apis - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:40:56,414 - WARNING - python-sphinx-theme-alabaster -> cannot find sphinx-theme-alabaster project on pypi (https://pypi.org/project/sphinx-theme-alabaster)
-2024-06-13 00:41:02,498 - WARNING - itstool - cannot guess next version -> http 404 -> http://files.itstool.org/itstool
-2024-06-13 00:41:05,452 - WARNING - libxml++ - cannot guess next version -> only 0 link to tarball(s) found at https://ftp.gnome.org/pub/GNOME/sources/libxml++/5.0
-2024-06-13 00:41:09,783 - WARNING - libunwind - cannot guess next version -> http 406 -> http://download.savannah.gnu.org/releases/libunwind
-2024-06-13 00:41:10,288 - WARNING - mlnx-ofa_kernel - cannot guess next version -> cannot get tarball name or extension from "https://www.mellanox.com/downloads/ofed/mlnx-ofa_kernel-23.04-0.5.3.tgz"
-2024-06-13 00:41:30,251 - WARNING - openjade - cannot guess next version -> http 404 -> http://download.sourceforge.net/openjade
-2024-06-13 00:41:39,249 - WARNING - maven-jar-plugin - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.2/maven-jar-plugin-3.2.2-source-release.zip"
-2024-06-13 00:41:40,481 - WARNING - keyutils - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/snapshot
-2024-06-13 00:41:46,445 - WARNING - malaga - cannot guess next version -> only 0 link to tarball(s) found at https://dynalabs.de/mxp/assets
-2024-06-13 00:41:50,564 - WARNING - rt-setup - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:41:53,604 - WARNING - e2fsprogs - cannot guess next version -> http 404 -> https://prdownloads.sourceforge.net/e2fsprogs
-2024-06-13 00:41:55,605 - WARNING - xmltoman - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/xmltoman
-2024-06-13 00:41:56,481 - WARNING - icu cannot get next versions - no tags (https://github.com/microsoft/icu)
-2024-06-13 00:41:57,853 - WARNING - mcpp - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/mcpp
-2024-06-13 00:41:58,557 - WARNING - vsftpd - cannot guess next version -> http 404 -> https://security.appspot.com/downloads
-2024-06-13 00:42:01,443 - WARNING - docbook5-schemas - cannot guess next version -> cannot get tarball name or extension from "https://www.docbook.org/xml/5.1/docbook-v5.1-os.zip"
-2024-06-13 00:42:02,072 - WARNING - ruby - cannot guess next version -> http 404 -> https://cache.ruby-lang.org/pub/ruby/3.1
-2024-06-13 00:42:22,728 - WARNING - quota - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/linuxquota
-2024-06-13 00:42:26,437 - WARNING - rubygem-aws-sdk-core - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
-2024-06-13 00:42:27,655 - WARNING - lttng-consume cannot get next versions - no tags (https://github.com/microsoft/lttng-consume)
-2024-06-13 00:42:34,412 - WARNING - php-pear - cannot guess next version -> http 404 -> http://download.pear.php.net/package
-2024-06-13 00:42:38,025 - WARNING - docbook-style-dsssl - cannot guess next version -> http 404 -> http://prdownloads.sourceforge.net/docbook
-2024-06-13 00:42:40,814 - WARNING - azcopy cannot get next versions - no tags (https://github.com/Azure/azure-storage-azcopy)
-2024-06-13 00:42:41,545 - WARNING - docbook2X - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/docbook2x
-2024-06-13 00:42:49,936 - WARNING - boost - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/boost
-2024-06-13 00:42:57,837 - WARNING - python-sphinx-theme-py3doc-enhanced -> cannot find sphinx-theme-py3doc-enhanced project on pypi (https://pypi.org/project/sphinx-theme-py3doc-enhanced)
-2024-06-13 00:42:58,342 - WARNING - at - cannot guess next version -> only 0 link to tarball(s) found at https://salsa.debian.org/debian/at/-/archive/release/3.2.2
-2024-06-13 00:43:00,902 - WARNING - WALinuxAgent cannot get next versions - no tags (https://github.com/Azure/WALinuxAgent)
-2024-06-13 00:43:05,100 - WARNING - finger - cannot guess next version -> only 1 link to tarball(s) found at http://ftp.linux.org.uk/pub/linux/Networking/netkit
-2024-06-13 00:43:13,801 - WARNING - mtools - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/mtools
-2024-06-13 00:43:27,433 - WARNING - blktrace - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/axboe/blktrace.git/snapshot
-2024-06-13 00:43:29,781 - WARNING - rust - cannot guess next version -> http 404 -> https://static.rust-lang.org/dist
-2024-06-13 00:43:44,053 - WARNING - jsr-305 - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/jsr-305-20130910svn.tgz"
-2024-06-13 00:43:49,122 - WARNING - libzip - cannot guess next version -> only 1 link to tarball(s) found at https://libzip.org/download
-2024-06-13 00:43:51,959 - WARNING - perl-LWP-MediaTypes - cannot guess next version -> only 1 link to tarball(s) found at https://cpan.metacpan.org/authors/id/O/OA/OALDERS
-2024-06-13 00:44:33,813 - WARNING - intltool - cannot guess next version -> http 404 -> https://launchpad.net/intltool/trunk/0.51.0/+download
-2024-06-13 00:44:37,145 - WARNING - hexedit - cannot guess next version -> only 0 link to tarball(s) found at http://rigaux.org
-2024-06-13 00:44:50,631 - WARNING - perftest - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
-2024-06-13 00:44:53,450 - WARNING - python-linux-procfs - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/libs/python/python-linux-procfs/python-linux-procfs.git/snapshot
-2024-06-13 00:45:01,632 - WARNING - scons - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/scons
-2024-06-13 00:45:04,329 - WARNING - msft-golang cannot get next versions - no tags (https://github.com/microsoft/go)
-2024-06-13 00:45:10,550 - WARNING - keepalived - cannot guess next version -> http 403 -> https://www.keepalived.org/software
-2024-06-13 00:45:21,354 - WARNING - perl-Test-Pod-Coverage - cannot guess next version -> only 1 link to tarball(s) found at https://cpan.metacpan.org/authors/id/N/NE/NEILB
-2024-06-13 00:45:31,714 - WARNING - ntfs-3g - cannot guess next version -> http 404 -> https://tuxera.com/opensource
-2024-06-13 00:45:45,880 - WARNING - apparmor - cannot guess next version -> http 404 -> https://launchpad.net/apparmor/3.0/3.0.4/+download
-2024-06-13 00:45:49,287 - WARNING - environment-modules - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/modules
-2024-06-13 00:45:54,667 - WARNING - azure-storage-cpp cannot get next versions - no tags (https://github.com/Azure/azure-storage-cpp)
-2024-06-13 00:46:03,367 - WARNING - xorg-x11-drv-libinput - cannot guess next version -> cannot query ftp://ftp.x.org/pub/individual/driver
-2024-06-13 00:46:03,838 - ERROR - Gitlab project https://gitlab.gnome.org/Community/gentoo -> cannot get project Id (request status 404)
+aspell - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/aspell
+uuid - cannot guess next version -> cannot query ftp://ftp.ossp.org/pkg/lib/uuid
+hdparm - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/hdparm
+unixODBC - cannot guess next version -> only 0 link to tarball(s) found at http://www.unixodbc.org
+php-pecl-zip - cannot guess next version -> http 404 -> https://pecl.php.net/get
+usbip - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+rubygem-aws-sdk-s3 - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+tboot - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/tboot
+net-tools - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/project/net-tools
+sgml-common - cannot guess next version -> only 1 link to tarball(s) found at https://sourceware.org/ftp/docbook-tools/new-trials/SOURCES
+libgdiplus - cannot guess next version -> http 404 -> https://download.mono-project.com/sources/libgdiplus
+nspr - cannot guess next version -> http 404 -> https://archive.mozilla.org/pub/nspr/releases/v4.30/src
+CUnit - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/cunit
+libmetalink - cannot guess next version -> http 404 -> https://launchpad.net/libmetalink/trunk/libmetalink-0.1.3/+download
+psmisc - cannot guess next version -> http 404 -> http://prdownloads.sourceforge.net/psmisc
+python-junit-xml cannot get next versions - no tags (https://github.com/kyrus/python-junit-xml)
+gnuplot - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/gnuplot
+cloud-utils-growpart - cannot guess next version -> http 404 -> https://launchpad.net/cloud-utils/trunk/0.32/+download
+libisofs - cannot guess next version -> http 404 -> https://dev.lovelyhq.com/libburnia/libisofs/archive
+ofed-scripts - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/doca/1.3.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
+rubygem-aws-sdk-kms - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+quotatool - cannot guess next version -> only 0 link to tarball(s) found at http://quotatool.ekenberg.se
+gtk3 - cannot guess next version -> only 0 link to tarball(s) found at https://download.gnome.org/sources/gtk+/3.24
+pcsc-lite - cannot guess next version -> only 0 link to tarball(s) found at https://pcsclite.apdu.fr/files
+atftp - cannot guess next version -> only 0 link to tarball(s) found at http://sourceforge.net/projects/atftp/files/latest/download
+libgudev - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/libgudev/237
+maven-resolver - cannot guess next version -> cannot get tarball name or extension from "https://archive.apache.org/dist/maven/resolver/maven-resolver-1.7.3-source-release.zip"
+google-roboto-slab-fonts - cannot guess next version -> cannot get tarball name or extension from "https://fonts.google.com/download?family=Roboto%20Slab"
+cpulimit - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/limitcpu
+gtk2 - cannot guess next version -> only 0 link to tarball(s) found at https://download.gnome.org/sources/gtk+/2.24
+byacc - cannot guess next version -> cannot get tarball name or extension from "https://invisible-mirror.net/archives/byacc/byacc-20220109.tgz"
+libxfce4util - cannot guess next version -> only 1 link to tarball(s) found at https://archive.xfce.org/src/xfce/libxfce4util/4.14
+python-dateutil -> cannot find dateutil project on pypi (https://pypi.org/project/dateutil)
+libtraceevent - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git/snapshot
+debootstrap - cannot guess next version -> cannot get tarball name or extension from "https://deb.debian.org/debian/pool/main/d/debootstrap/debootstrap_1.0.128+nmu2.tar.gz"
+mac-robber - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/mac-robber
+libpng - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/libpng
+freetype - cannot guess next version -> http 406 -> https://download.savannah.gnu.org/releases/freetype
+maven-surefire - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+gobject-introspection - cannot guess next version -> only 1 link to tarball(s) found at https://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.71
+maven-resources-plugin - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0-source-release.zip"
+crash-gcore-command cannot get next versions - no tags (https://github.com/crash-utility/crash-extensions)
+rubygem-aws-sdk-sqs - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+libburn - cannot guess next version -> http 404 -> https://dev.lovelyhq.com/libburnia/libburn/archive
+glusterfs - cannot guess next version -> only 1 link to tarball(s) found at https://download.gluster.org/pub/gluster/glusterfs/7/7.9
+zip - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/infozip/zip30.tar.gz"
+docbook-dtds - cannot guess next version -> cannot get tarball name or extension from "https://www.oasis-open.org/docbook/sgml/3.0/docbk30.zip"
+glibmm - cannot guess next version -> only 1 link to tarball(s) found at http://ftp.gnome.org/pub/GNOME/sources/glibmm/2.70
+acpica-tools - cannot guess next version -> only 0 link to tarball(s) found at https://acpica.org/sites/acpica/files
+chrpath - cannot guess next version -> only 1 link to tarball(s) found at https://alioth-archive.debian.org/releases/chrpath/chrpath/0.16
+ncurses - cannot guess next version -> cannot get tarball name or extension from "https://invisible-mirror.net/archives/ncurses/current/ncurses-6.4-20230423.tgz"
+tcl - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/sourceforge/tcl/tcl-core8.6.13-src.tar.gz"
+moby-containerd-cc cannot get next versions - no tags (https://github.com/microsoft/confidential-containers-containerd)
+libkcapi - cannot guess next version -> only 0 link to tarball(s) found at https://www.chronox.de/libkcapi
+openvswitch - cannot guess next version -> http 404 -> http://openvswitch.org/releases
+libedit - cannot guess next version -> cannot get tarball name or extension from "https://www.thrysoee.dk/editline/libedit-20210910-3.1.tar.gz"
+bazel-workspaces cannot get next versions - no tags (https://github.com/kubic-project/bazel-workspaces)
+giflib - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/giflib
+perl-XML-SAX - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+expect - cannot guess next version -> cannot get tarball name or extension from "https://sourceforge.net/projects/expect/files/Expect/5.45.4/expect5.45.4.tar.gz"
+libfontenc - cannot guess next version -> cannot query ftp://ftp.x.org/pub/individual/lib
+cloud-hypervisor-cvm cannot get next versions - no tags (https://github.com/microsoft/cloud-hypervisor)
+tree - cannot guess next version -> cannot query http://mama.indstate.edu/users/ice/tree/src
+atop - cannot guess next version -> http 403 -> http://www.atoptool.nl/download
+openmpi - cannot guess next version -> http 403 -> https://www.open-mpi.org/software/ompi/v4.1/downloads
+help2man - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/help2man
+google-guice - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+gdk-pixbuf2 - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/gdk-pixbuf/2.40
+libpipeline - cannot guess next version -> http 406 -> http://download.savannah.gnu.org/releases/libpipeline
+azurelinux-sysinfo -> cannot guess next version - tarball domain not handled by tool yet ()
+OpenIPMI - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/openipmi
+mozjs - cannot guess next version -> cannot get tarball name or extension from "https://ftp.mozilla.org/pub/firefox/releases/78.10.0esr/source/firefox-78.10.0esr.source.tar.xz"
+nfs-utils - cannot guess next version -> only 1 link to tarball(s) found at https://www.kernel.org/pub/linux/utils/nfs-utils/2.5.4
+antlr - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+unzip - cannot guess next version -> cannot get tarball name or extension from "https://downloads.sourceforge.net/infozip/unzip60.tar.gz"
+pwgen - cannot guess next version -> http 404 -> https://download.sf.net/pwgen
+doxygen - cannot guess next version -> http 403 -> https://doxygen.nl/files
+java-cup-bootstrap - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/develop.tar.bz2"
+java-cup - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/develop.tar.bz2"
+blobfuse cannot get next versions - no tags (https://github.com/Azure/azure-storage-fuse)
+tuna - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/utils/tuna/tuna.git/snapshot
+atk - cannot guess next version -> only 1 link to tarball(s) found at https://download.gnome.org/sources/atk/2.36
+wayland-protocols - cannot guess next version -> http 404 -> https://wayland.freedesktop.org/releases
+hvloader cannot get next versions - no tags (https://github.com/microsoft/HvLoader)
+xz-java - cannot guess next version -> only 0 link to tarball(s) found at http://tukaani.org/xz
+attr - cannot guess next version -> http 406 -> https://download.savannah.nongnu.org/releases/attr
+pgbouncer - cannot guess next version -> http 404 -> https://pgbouncer.github.io/downloads/files/1.16.1
+azl-compliance - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+moreutils - cannot guess next version -> only 1 link to tarball(s) found at https://deb.debian.org/debian/pool/main/m/moreutils
+jsonbuilder cannot get next versions - no tags (https://github.com/microsoft/jsonbuilder)
+knem - cannot guess next version -> cannot get tarball name or extension from "https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES/knem_1.1.4.90mlnx1.orig.tar.gz"
+less - cannot guess next version -> only 0 link to tarball(s) found at https://www.greenwoodsoftware.com/less
+words - cannot guess next version -> cannot get tarball name or extension from "https://web.archive.org/web/20060527013227/http://www.dcs.shef.ac.uk/research/ilash/Moby/mwords.tar.Z"
+postfix - cannot guess next version -> cannot query ftp://ftp.porcupine.org/mirrors/postfix-release/official
+time - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/time
+kata-packages-uvm -> cannot guess next version - tarball domain not handled by tool yet ()
+luajit - cannot guess next version -> cannot get tarball name or extension from "https://luajit.org/download/LuaJIT-2.1.0-beta3.tar.gz"
+libdb - cannot guess next version -> http 404 -> http://download.oracle.com/berkeley-db
+rpcbind - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/rpcbind
+kubernetes - cannot guess next version -> cannot get tarball name or extension from "https://dl.k8s.io/v1.28.4/kubernetes-src.tar.gz"
+memcached - cannot guess next version -> http 404 -> https://www.memcached.org/files
+maven-wagon - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/3.5.1/wagon-3.5.1-source-release.zip"
+iotop - cannot guess next version -> http 403 -> http://guichaz.free.fr/iotop/files
+maven-compiler-plugin - cannot guess next version -> cannot get tarball name or extension from "https://archive.apache.org/dist/maven/plugins/maven-compiler-plugin-3.8.1-source-release.zip"
+orangefs - cannot guess next version -> http 404 -> https://s3.amazonaws.com/download.orangefs.org/current/source
+libjpeg-turbo - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/libjpeg-turbo
+linux-firmware - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/snapshot
+syslinux - cannot guess next version -> cannot get tarball name or extension from "https://www.kernel.org/pub/linux/utils/boot/syslinux/Testing/6.04/syslinux-6.04-pre1.tar.xz"
+libtirpc - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/libtirpc
+application-gateway-kubernetes-ingress cannot get next versions - no tags (https://github.com/Azure/application-gateway-kubernetes-ingress)
+mlnx-tools - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
+wireguard-tools - cannot guess next version -> http 400 -> https://git.zx2c4.com/wireguard-tools/snapshot
+nodejs18 - cannot guess next version -> only 1 link to tarball(s) found at https://nodejs.org/download/release/v18.20.2
+docbook-dtd-xml - cannot guess next version -> only 1 link to tarball(s) found at https://docbook.org/xml/4.5
+libdwarf - cannot guess next version -> only 0 link to tarball(s) found at https://www.prevanders.net
+archivemount - cannot guess next version -> cannot query https://www.cybernoia.de/software/archivemount
+GSL cannot get next versions - no tags (https://github.com/microsoft/GSL)
+rsyslog - cannot guess next version -> http 404 -> https://www.rsyslog.com/files/download/rsyslog
+rpm-mpi-hooks - cannot guess next version -> cannot get tarball name or extension from "https://src.fedoraproject.org/rpms/rpm-mpi-hooks/raw/f37/f/mpi.attr"
+guile - cannot guess next version -> cannot query ftp://ftp.gnu.org/pub/gnu/guile
+rtctl - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+dhcp - cannot guess next version -> cannot query ftp://ftp.isc.org/isc/dhcp/4.4.3
+SymCrypt cannot get next versions - no tags (https://github.com/microsoft/SymCrypt)
+xml-commons-apis - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+python-sphinx-theme-alabaster -> cannot find sphinx-theme-alabaster project on pypi (https://pypi.org/project/sphinx-theme-alabaster)
+itstool - cannot guess next version -> http 404 -> http://files.itstool.org/itstool
+libxml++ - cannot guess next version -> only 0 link to tarball(s) found at https://ftp.gnome.org/pub/GNOME/sources/libxml++/5.0
+libunwind - cannot guess next version -> http 406 -> http://download.savannah.gnu.org/releases/libunwind
+mlnx-ofa_kernel - cannot guess next version -> cannot get tarball name or extension from "https://www.mellanox.com/downloads/ofed/mlnx-ofa_kernel-23.04-0.5.3.tgz"
+openjade - cannot guess next version -> http 404 -> http://download.sourceforge.net/openjade
+maven-jar-plugin - cannot guess next version -> cannot get tarball name or extension from "https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.2/maven-jar-plugin-3.2.2-source-release.zip"
+keyutils - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/snapshot
+malaga - cannot guess next version -> only 0 link to tarball(s) found at https://dynalabs.de/mxp/assets
+rt-setup - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+e2fsprogs - cannot guess next version -> http 404 -> https://prdownloads.sourceforge.net/e2fsprogs
+xmltoman - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/xmltoman
+icu cannot get next versions - no tags (https://github.com/microsoft/icu)
+mcpp - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/mcpp
+vsftpd - cannot guess next version -> http 404 -> https://security.appspot.com/downloads
+docbook5-schemas - cannot guess next version -> cannot get tarball name or extension from "https://www.docbook.org/xml/5.1/docbook-v5.1-os.zip"
+ruby - cannot guess next version -> http 404 -> https://cache.ruby-lang.org/pub/ruby/3.1
+quota - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/linuxquota
+rubygem-aws-sdk-core - cannot guess next version -> http 404 -> https://azurelinuxsrcstorage.blob.core.windows.net/sources/core
+lttng-consume cannot get next versions - no tags (https://github.com/microsoft/lttng-consume)
+php-pear - cannot guess next version -> http 404 -> http://download.pear.php.net/package
+docbook-style-dsssl - cannot guess next version -> http 404 -> http://prdownloads.sourceforge.net/docbook
+azcopy cannot get next versions - no tags (https://github.com/Azure/azure-storage-azcopy)
+docbook2X - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/docbook2x
+boost - cannot guess next version -> http 404 -> https://downloads.sourceforge.net/boost
+python-sphinx-theme-py3doc-enhanced -> cannot find sphinx-theme-py3doc-enhanced project on pypi (https://pypi.org/project/sphinx-theme-py3doc-enhanced)
+at - cannot guess next version -> only 0 link to tarball(s) found at https://salsa.debian.org/debian/at/-/archive/release/3.2.2
+WALinuxAgent cannot get next versions - no tags (https://github.com/Azure/WALinuxAgent)
+finger - cannot guess next version -> only 1 link to tarball(s) found at http://ftp.linux.org.uk/pub/linux/Networking/netkit
+mtools - cannot guess next version -> cannot query ftp://ftp.gnu.org/gnu/mtools
+blktrace - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/linux/kernel/git/axboe/blktrace.git/snapshot
+rust - cannot guess next version -> http 404 -> https://static.rust-lang.org/dist
+jsr-305 - cannot guess next version -> cannot get tarball name or extension from "https://azurelinuxsrcstorage.blob.core.windows.net/sources/core/jsr-305-20130910svn.tgz"
+libzip - cannot guess next version -> only 1 link to tarball(s) found at https://libzip.org/download
+perl-LWP-MediaTypes - cannot guess next version -> only 1 link to tarball(s) found at https://cpan.metacpan.org/authors/id/O/OA/OALDERS
+intltool - cannot guess next version -> http 404 -> https://launchpad.net/intltool/trunk/0.51.0/+download
+hexedit - cannot guess next version -> only 0 link to tarball(s) found at http://rigaux.org
+perftest - cannot guess next version -> only 1 link to tarball(s) found at https://linux.mellanox.com/public/repo/bluefield/3.9.0/extras/mlnx_ofed/5.6-1.0.3.3/SOURCES
+python-linux-procfs - cannot guess next version -> http 400 -> https://git.kernel.org/pub/scm/libs/python/python-linux-procfs/python-linux-procfs.git/snapshot
+scons - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/scons
+msft-golang cannot get next versions - no tags (https://github.com/microsoft/go)
+keepalived - cannot guess next version -> http 403 -> https://www.keepalived.org/software
+perl-Test-Pod-Coverage - cannot guess next version -> only 1 link to tarball(s) found at https://cpan.metacpan.org/authors/id/N/NE/NEILB
+ntfs-3g - cannot guess next version -> http 404 -> https://tuxera.com/opensource
+apparmor - cannot guess next version -> http 404 -> https://launchpad.net/apparmor/3.0/3.0.4/+download
+environment-modules - cannot guess next version -> http 404 -> http://downloads.sourceforge.net/modules
+azure-storage-cpp cannot get next versions - no tags (https://github.com/Azure/azure-storage-cpp)
+xorg-x11-drv-libinput - cannot guess next version -> cannot query ftp://ftp.x.org/pub/individual/driver
