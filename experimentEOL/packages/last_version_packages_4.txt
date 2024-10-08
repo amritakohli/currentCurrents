@@ -1,0 +1,308 @@
+perl-XML-NamespaceSupport: CRITICAL: No release was found
+perl-XML-Parser: CRITICAL: No release was found
+perl-XML-SAX: CRITICAL: No release was found
+perl-XML-SAX-Base: 1.9
+perl-XML-XPath: CRITICAL: No release was found
+perl-YAML: 1
+perl-YAML-Tiny: 1.74
+perl-common-sense: 3.75
+perl-generators: CRITICAL: No release was found
+perl-libintl-perl: 1.31
+perl-libwww-perl: 6.77
+perl-local-lib: 2.29
+pgbouncer: 1.23.1
+php: 8.3.12
+php-pear: CRITICAL: No release was found
+php-pecl-zip: 1.21.1
+picosat: 0.4.1
+pigz: 2.8
+pinentry: 1.3.1
+pixman: CRITICAL: No release was found
+pkgconf: 2.3.0
+plexus-cipher: 1.7
+plexus-classworlds: 2.8.0
+plexus-containers: 1.6
+plexus-interpolation: 1.27.0
+plexus-sec-dispatcher: CRITICAL: No release was found
+plexus-utils: 4.0.2
+pmix: 5.0.3
+policycoreutils: CRITICAL: No release was found
+polkit: CRITICAL: No release was found
+popt: CRITICAL: No release was found
+postfix: 3.3.13
+postgresql: 15.8.2.0
+prebuilt-ca-certificates: CRITICAL: No project found on GitHub for search query: prebuilt-ca-certificates
+prebuilt-ca-certificates-base: CRITICAL: No project found on GitHub for search query: prebuilt-ca-certificates-base
+priv_wrapper: CRITICAL: No release was found
+procps-ng: CRITICAL: No release was found
+prometheus: 2.54.1
+prometheus-adapter: 0.12.0
+prometheus-node-exporter: 1.8.2
+prometheus-process-exporter: 0.4.2
+protobuf: 28.2
+protobuf-c: 1.5.0
+psmisc: CRITICAL: No release was found
+pth: 3.2.0
+pugixml: 1.14
+pwgen: 1.0
+pyOpenSSL: 24.2.1
+pyasn1-modules: 0.2.8
+pycairo: 1.27.0
+pyelftools: 0.31
+pygobject3: 3.36.1
+pyparsing: 3.1.4
+pyproject-rpm-macros: CRITICAL: No release was found
+pytest: 8.3.3
+python-absl-py: 0.9.0
+python-appdirs: CRITICAL: No release was found
+python-asn1crypto: 4.3
+python-astunparse: 1.6.3
+python-async-generator: 1.10
+python-atomicwrites: 1.4.1
+python-attrs: 24.2.0
+python-bcrypt: 95260
+python-cached_property: WARNING: Waiting 5 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-cached_property
+python-cachetools: CRITICAL: No release was found
+python-certifi: 2024.8.30
+python-cffi: 5.0.0.4
+python-chardet: 2.0.0
+python-charset-normalizer: 3.3.0
+python-cherrypy: CRITICAL: No release was found
+python-click: CRITICAL: No release was found
+python-conda-package-handling: CRITICAL: No release was found
+python-configobj: 5.0.6
+python-constantly: CRITICAL: No release was found
+python-coverage: 3.28
+python-cpuinfo: CRITICAL: No release was found
+python-cryptography: 1.0
+python-cstruct: 5.3
+python-cytoolz: CRITICAL: No project found on GitHub for search query: python-cytoolz
+python-daemon: 148449
+python-dateutil: 1.4.1.2
+python-decorator: CRITICAL: No release was found
+python-defusedxml: 0.7.1
+python-distlib: CRITICAL: No release was found
+python-distro: 1.9.0
+python-docopt: CRITICAL: No release was found
+python-docutils: CRITICAL: No release was found
+python-ecdsa: 0.19.0
+python-ethtool: 0.15
+python-execnet: 2019.42
+python-fields: 5.0.0
+python-filelock: CRITICAL: No release was found
+python-flit: CRITICAL: No release was found
+python-flit-core: WARNING: Waiting 7 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-flit-core
+python-frozendict: 2.4.4
+python-gast: CRITICAL: No release was found
+python-gevent: CRITICAL: No release was found
+python-google-auth: 2.35.0
+python-google-auth-oauthlib: 1.2.1
+python-google-pasta: CRITICAL: No project found on GitHub for search query: python-google-pasta
+python-greenlet: 3.1.1
+python-h5py: CRITICAL: No release was found
+python-html5lib: 1.1
+python-hyperlink: 21.0.0
+python-hypothesis: CRITICAL: No release was found
+python-idna: 2.10
+python-imagesize: CRITICAL: No release was found
+python-importlib-metadata: 8.5.0
+python-incremental: CRITICAL: No release was found
+python-iniparse: 0.5
+python-ipaddr: CRITICAL: No release was found
+python-jinja2: 0.2.0
+python-jmespath: 1.1.3
+python-jsonpatch: 9.2
+python-jsonpointer: 9.2
+python-jsonschema: 4.23.0
+python-junit-xml: CRITICAL: No release was found
+python-jwt: 4.0.0
+python-kubernetes: 31.0.0
+python-libclang: 10.0.0
+python-linux-procfs: CRITICAL: No release was found
+python-lockfile: 2.0.0
+python-logutils: CRITICAL: No release was found
+python-lxml: WARNING: Waiting 8 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-lxml
+python-m2r: 0.2.1
+python-mako: CRITICAL: No release was found
+python-markdown: 3.7
+python-markupsafe: CRITICAL: No release was found
+python-mistune: 2.0.4
+python-mock: 3.13.0
+python-more-itertools: CRITICAL: No release was found
+python-mpmath: 1.2.1
+python-msgpack: 1.1.0
+python-netaddr: CRITICAL: No release was found
+python-netifaces: 0.10.5
+python-networkx: CRITICAL: No release was found
+python-nocasedict: 1.1.2
+python-nose2: CRITICAL: No release was found
+python-ntplib: 8.8
+python-oauthlib: 1.2.1
+python-opt-einsum: 3.3.0
+python-packaging: CRITICAL: No release was found
+python-pam: 2.0.2
+python-pbr: 3.1.1
+python-pecan: 1.2.1
+python-pefile: CRITICAL: No release was found
+python-pexpect: 4.8.0
+python-pkgconfig: 1.5.5
+python-platformdirs: 2.0.2
+python-pluggy: 1.0.0.post22
+python-ply: 1.1
+python-prettytable: CRITICAL: No release was found
+python-process-tests: 3.0.0
+python-psutil: 5.8.0
+python-psycopg2: WARNING: Waiting 2 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-psycopg2
+python-ptyprocess: CRITICAL: No release was found
+python-py: CRITICAL: No release was found
+python-pyasn1: CRITICAL: No release was found
+python-pycodestyle: CRITICAL: No release was found
+python-pycosat: CRITICAL: No release was found
+python-pycparser: 2.21
+python-pycurl: CRITICAL: No release was found
+python-pygments: CRITICAL: No release was found
+python-pynacl: 4.3
+python-pyrpm: CRITICAL: No project found on GitHub for search query: python-pyrpm
+python-pytest-benchmark: 3.4.1
+python-pytest-cov: CRITICAL: No release was found
+python-pytest-expect: 1.1.0
+python-pytest-forked: 4.3
+python-pytest-mock: 4.3
+python-pytest-xdist: 1.34.0
+python-pyudev: 0.22.0
+python-pywbem: CRITICAL: No release was found
+python-remoto: CRITICAL: No release was found
+python-repoze-lru: CRITICAL: No release was found
+python-requests: CRITICAL: No release was found
+python-requests-oauthlib: 9.2
+python-resolvelib: 0.8.1
+python-responses: 0.11.1
+python-retrying: 1.3.3
+python-routes: CRITICAL: No release was found
+python-rsa: 4.9
+python-ruamel-yaml: 4.3
+python-ruamel-yaml-clib: 9.2
+python-schedutils: WARNING: Waiting 9 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-schedutils
+python-setuptools-rust: 1.5.2
+python-setuptools_scm: 5.0.2
+python-simplejson: CRITICAL: No release was found
+python-six: CRITICAL: No release was found
+python-snowballstemmer: 9.2
+python-sphinx: CRITICAL: No release was found
+python-sphinx-theme-alabaster: CRITICAL: No release was found
+python-sphinx-theme-py3doc-enhanced: 2.4.0
+python-sphinx_rtd_theme: 4.3
+python-sphinxcontrib-applehelp: 3.1.0.2.5
+python-sphinxcontrib-devhelp: 1.0.2
+python-sphinxcontrib-htmlhelp: 9.2
+python-sphinxcontrib-jsmath: 1.0.1
+python-sphinxcontrib-qthelp: 4.3
+python-sphinxcontrib-serializinghtml: 9.2
+python-sphinxcontrib-websupport: CRITICAL: No release was found
+python-sqlalchemy: 2.3.0
+python-tensorboard: 2.10.1
+python-tensorboard-plugin-wit: CRITICAL: No project found on GitHub for search query: python-tensorboard-plugin-wit
+python-tensorflow-estimator: 2.10.0
+python-termcolor: 1.1.0
+python-tidy: CRITICAL: No release was found
+python-tomli: 1.0.0
+python-toolz: 0.12.0
+python-tox-current-env: 0.0.12
+python-tqdm: CRITICAL: No release was found
+python-twisted: CRITICAL: No release was found
+python-typing-extensions: 4.12.2
+python-urllib3: 1.26.18
+python-vcversioner: WARNING: Waiting 8 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: python-vcversioner
+python-versioneer: 0.29
+python-virt-firmware: 24.2
+python-virtualenv: CRITICAL: No release was found
+python-wcwidth: 9.2
+python-webob: CRITICAL: No release was found
+python-websocket-client: CRITICAL: No release was found
+python-werkzeug: CRITICAL: No release was found
+python-wheel: 0.7.1
+python-wrapt: 1.10.10
+python-yamlloader: 0.5.5
+python-zipp: 3.0.0
+python-zope-interface: CRITICAL: No release was found
+python3: CRITICAL: No release was found
+python3-pytest-asyncio: CRITICAL: No release was found
+pytorch: 137381
+pytz: 2024.2
+qdox: 2.1.0
+qemu: 9.1.0
+qt5-qtbase: CRITICAL: No release was found
+qt5-qtdeclarative: CRITICAL: No release was found
+qt5-qtsvg: 9.3
+qt5-qttools: CRITICAL: No release was found
+qt5-rpm-macros: CRITICAL: No project found on GitHub for search query: qt5-rpm-macros
+quota: 0.3.0
+quotatool: 1.6.5
+rabbitmq-server: 4.0.2
+radvd: 2.19
+ragel: 7.0.4
+rapidjson: 1.1.0
+rdma-core: 53.0
+re2: 1.1
+readline: 1.5.1
+reaper: 2.0.2
+redis: 7.4.1
+rest: WARNING: Waiting 1 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: rest
+rlwrap: 0.46.1
+rng-tools: 6.17
+rocksdb: 9.6.1
+rook: 1.15.3
+rpcbind: CRITICAL: No release was found
+rpcsvc-proto: 1.4.4
+rpm: 1.4.5
+rpm-mpi-hooks: 9.2
+rpm-ostree: 2024.8
+rpmdevtools: CRITICAL: No release was found
+rrdtool: 1.9.0
+rsync: 1.1.5
+rsyslog: 2024.7.22
+rt-setup: 1.0.2.0.9.7
+rt-tests: CRITICAL: No release was found
+rtctl: CRITICAL: No release was found
+rtl-sdr: 2.0.2
+ruby: 3.3.5
+ruby-augeas: 0.6.0
+rubygem-addressable: CRITICAL: No release was found
+rubygem-asciidoctor: 1.5.4
+rubygem-async: CRITICAL: No project found on GitHub for search query: rubygem-async
+rubygem-async-http: CRITICAL: No project found on GitHub for search query: rubygem-async-http
+rubygem-async-io: CRITICAL: No project found on GitHub for search query: rubygem-async-io
+rubygem-async-pool: CRITICAL: No project found on GitHub for search query: rubygem-async-pool
+rubygem-aws-eventstream: CRITICAL: No project found on GitHub for search query: rubygem-aws-eventstream
+rubygem-aws-partitions: CRITICAL: No project found on GitHub for search query: rubygem-aws-partitions
+rubygem-aws-sdk-core: CRITICAL: No release was found
+rubygem-aws-sdk-kms: CRITICAL: No project found on GitHub for search query: rubygem-aws-sdk-kms
+rubygem-aws-sdk-s3: CRITICAL: No project found on GitHub for search query: rubygem-aws-sdk-s3
+rubygem-aws-sdk-sqs: CRITICAL: No project found on GitHub for search query: rubygem-aws-sdk-sqs
+rubygem-aws-sigv4: CRITICAL: No project found on GitHub for search query: rubygem-aws-sigv4
+rubygem-bigdecimal: WARNING: Waiting 11 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: rubygem-bigdecimal
+rubygem-bindata: CRITICAL: No project found on GitHub for search query: rubygem-bindata
+rubygem-concurrent-ruby: CRITICAL: No release was found
+rubygem-connection_pool: CRITICAL: No project found on GitHub for search query: rubygem-connection_pool
+rubygem-console: CRITICAL: No release was found
+rubygem-cool.io: CRITICAL: No release was found
+rubygem-deep_merge: CRITICAL: No release was found
+rubygem-digest-crc: CRITICAL: No project found on GitHub for search query: rubygem-digest-crc
+rubygem-elastic-transport: CRITICAL: No release was found
+rubygem-elasticsearch: CRITICAL: No release was found
+rubygem-elasticsearch-api: CRITICAL: No release was found
+rubygem-excon: CRITICAL: No release was found
+rubygem-faraday: 0.9.2
+rubygem-faraday-em_http: CRITICAL: No project found on GitHub for search query: rubygem-faraday-em_http
+rubygem-faraday-em_synchrony: CRITICAL: No project found on GitHub for search query: rubygem-faraday-em_synchrony
+rubygem-faraday-excon: CRITICAL: No project found on GitHub for search query: rubygem-faraday-excon
+rubygem-faraday-httpclient: CRITICAL: No project found on GitHub for search query: rubygem-faraday-httpclient
+rubygem-faraday-multipart: CRITICAL: No project found on GitHub for search query: rubygem-faraday-multipart

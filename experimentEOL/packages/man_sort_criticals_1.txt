@@ -1,0 +1,13 @@
+acl: deprecated
+blobfuse: deprecated
+build-essential: no longer recommended for use and is no longer being maintained
+cal10n: deprecated
+cppunit: deprecated
+dejagnu: deprecated
+dhcp: deprecated
+docbook-style-dsssl: deprecated
+docbook5-schemas: deprecated
+ebtables: no longer recommended for use and is no longer being maintained
+fakeroot: deprecated
+fontpackages: deprecated
+grubby: deprecated

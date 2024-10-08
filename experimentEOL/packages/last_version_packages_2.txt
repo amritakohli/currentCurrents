@@ -1,0 +1,300 @@
+haproxy: 3.0.0
+hardening-check: 0.6.10
+harfbuzz: 10.0.1
+haveged: 1.9.19
+hdf5: 5.1.14.5
+hdparm: CRITICAL: No release was found
+heimdal: 7.8.0
+helm: 3.16.1
+help2man: CRITICAL: No release was found
+hexedit: 0.9.12
+hicolor-icon-theme: 0.17
+hiera: 1.4
+hivex: 1.3.24
+hostname: 1.1.2
+htop: 3.3.0
+http-parser: 2.9.4
+httpd: 2.4.62
+hunspell: 1.7.2
+hunspell-en: 0.0.20140410
+hvloader: 1.0.1
+hwdata: 0.388
+hwloc: 2.11.2
+hyperscan: 5.4.2
+hyperv-daemons: CRITICAL: No release was found
+i2c-tools: CRITICAL: No release was found
+iana-etc: 20240923
+icoutils: CRITICAL: No release was found
+icu: CRITICAL: No release was found
+im-chooser: 1.5.0
+imsettings: 1.0.0
+infinipath-psm: CRITICAL: No release was found
+influx-cli: 1.46.0
+influxdb: 2.7.10
+inih: 58
+initramfs: 0.10.0
+initscripts: CRITICAL: No release was found
+inotify-tools: 4.23.9.0
+installkernel: 48
+intel-ipsec-mb: 1.5
+intel-pf-bb-config: 24.7
+intltool: CRITICAL: No release was found
+iotop: 1.26
+iperf3: 3.17.1
+ipmitool: 1.8.19
+iproute: 1.5.4
+ipset: CRITICAL: No release was found
+iptables: CRITICAL: No release was found
+iptraf-ng: 1.2.1
+iputils: 20240905
+ipvsadm: 1.26
+ipxe: 1.21.1
+irqbalance: 1.9.4
+iscsi-initiator-utils: CRITICAL: No release was found
+isns-utils: CRITICAL: No release was found
+itstool: 2.0.7
+ivykis: 0.43.2
+iw: CRITICAL: No release was found
+jansson: 2.14
+jasper: CRITICAL: No release was found
+java-cup: CRITICAL: No release was found
+javapackages-bootstrap: 1.20.0
+javapackages-tools: 9.2
+javassist: 3.1
+jemalloc: 5.3.0
+jflex: 1.9.1
+jna: 5.15.0
+jq: 3.7.1
+json-c: 0.18
+json-glib: 1.2.8
+jsonbuilder: 0.2.1
+jsr-305: 0.5.1
+junit: 4.13.2
+jurand: CRITICAL: No release was found
+jx: 1.6.8
+kata-containers: 3.9.0
+kata-containers-cc: 2.3.0
+kata-packages-uvm: CRITICAL: No project found on GitHub for search query: kata-packages-uvm
+kbd: 3
+kde-settings: 24.2.0
+keda: 2.15.1
+keepalived: 2.3.1
+keras: 3.5.0
+kernel: 6.11
+kernel-azure: CRITICAL: No release was found
+kernel-hci: CRITICAL: No project found on GitHub for search query: kernel-hci
+kernel-headers: 4.19.88
+kernel-mos: CRITICAL: No release was found
+kernel-mshv: CRITICAL: No project found on GitHub for search query: kernel-mshv
+kernel-uvm: CRITICAL: No project found on GitHub for search query: kernel-uvm
+kexec-tools: 2.0.29
+keyutils: 0.6
+kf5: CRITICAL: No release was found
+kf5-kconfig: 5.5.89.0.1
+kf5-kcoreaddons: 5.5.89.0.1
+kf5-ki18n: CRITICAL: No release was found
+kf5-kwidgetsaddons: CRITICAL: No release was found
+kmod: 0.12.2
+knem: 1.7.7.1
+kpatch: 0.9.9
+kpmcore: 24.8.1
+krb5: 1.21.3
+ksh: 2.0.1
+kube-vip-cloud-provider: 0.0.10
+kubernetes: 1.31.1
+kubevirt: 1.3.1
+kured: 1.16.0
+kyua: 0.13
+lapack: 3.12.0
+lato-fonts: CRITICAL: No release was found
+lcms2: 6.1.0
+ldns: 1.8.4
+leatherman: CRITICAL: No release was found
+less: 4.2.0
+leveldb: 1.23
+libICE: 1.0
+libSM: CRITICAL: No release was found
+libX11: 1.8.4
+libXau: CRITICAL: No release was found
+libXaw: CRITICAL: No release was found
+libXcomposite: CRITICAL: No release was found
+libXcursor: CRITICAL: No release was found
+libXdamage: CRITICAL: No release was found
+libXdmcp: CRITICAL: No release was found
+libXext: CRITICAL: No release was found
+libXfixes: CRITICAL: No release was found
+libXfont2: 9.2
+libXft: CRITICAL: No release was found
+libXi: 0.1.5
+libXinerama: CRITICAL: No release was found
+libXmu: CRITICAL: No release was found
+libXpm: 3.5.12
+libXrandr: CRITICAL: No release was found
+libXrender: CRITICAL: No release was found
+libXt: CRITICAL: No release was found
+libXtst: CRITICAL: No release was found
+libXxf86vm: CRITICAL: No release was found
+libacvp: 2.1.1
+libaec: 0.3.4
+libaio: CRITICAL: No release was found
+libarchive: 3.7.6
+libassuan: 3.0.1
+libatasmart: 0.19
+libatomic_ops: 7.8.2
+libbpf: 1.4.6
+libburn: CRITICAL: No release was found
+libcacard: 2.4.0
+libcap: 0.7
+libcap-ng: 0.8.5
+libcgroup: 3.1.0
+libcomps: 0.1.21
+libconfig: 1.7.3
+libconfini: 1.16.4
+libconfuse: 3.3
+libcontainers-common: CRITICAL: No project found on GitHub for search query: libcontainers-common
+libdaemon: CRITICAL: No release was found
+libdb: CRITICAL: No release was found
+libdnet: 1.18.0
+libdnf: 0.73.3
+libdrm: CRITICAL: No release was found
+libdwarf: 0.11.0
+libedit: CRITICAL: No release was found
+libell: 2.0.3
+libepoxy: 1.5.10
+libestr: CRITICAL: No release was found
+libev: 2.1.12
+libevdev: 1.5.4
+libevent: 2.1.12
+libewf: CRITICAL: No release was found
+libexif: 0.6.24
+libfabric: 1.22.0
+libfastjson: 1.2304.0
+libffi: 3.4.6
+libfontenc: CRITICAL: No release was found
+libgcrypt: 1.11.0
+libgdiplus: 6.1
+libgit2: 1.8.1
+libglvnd: 1.7.0
+libgpg-error: 1.50
+libgssglue: CRITICAL: No release was found
+libgsystem: CRITICAL: No release was found
+libgudev: 238
+libguestfs: 1.53.6
+libgusb: 0.4.9
+libgxim: CRITICAL: No release was found
+libhugetlbfs: 2.24
+libical: 3.0.18
+libinput: 2.77
+libiscsi: 1.20.0
+libisoburn: 1.5.6
+libisofs: CRITICAL: No release was found
+libjpeg-turbo: 3.0.4
+libkcapi: 1.5.0
+libksba: 1.6.7
+libldm: 0.2.5
+liblogging: 1.0.7
+liblognorm: 2.0.6
+liblzf: CRITICAL: No release was found
+libmaxminddb: 1.11.0
+libmbim: 1.26.2
+libmemcached-awesome: 9.2
+libmetalink: 0.1.3
+libmnl: 1.0.4
+libmodulemd: 2.15.0
+libmpc: 0.6.2
+libmspack: 1.11
+libnbd: 1.15.12
+libndp: 1.9
+libnetfilter_conntrack: 1.0.4
+libnetfilter_cthelper: 1.2
+libnetfilter_cttimeout: 1.0.1
+libnetfilter_log: CRITICAL: No release was found
+libnetfilter_queue: CRITICAL: No release was found
+libnfnetlink: CRITICAL: No release was found
+libnfs: 5.0.3
+libnftnl: 5.4.8
+libnl3: CRITICAL: No release was found
+libnotify: 0.9.3
+libnsl2: CRITICAL: No release was found
+libnvidia-container: 1.16.2
+libpcap: 1.10.5
+libpciaccess: CRITICAL: No release was found
+libpipeline: 1.2.4
+libpng: 1.6.32
+libpsl: 0.21.5
+libpsm2: CRITICAL: No release was found
+libpwquality: 1.4.5
+libqmi: 1.30.8
+librdkafka: 2.5.3
+librelp: 1.11.0
+librepo: 1.18.1
+libreswan: 5.0
+librsvg2: CRITICAL: No release was found
+librsync: 2.3.4
+libsafec: 0.2.0
+libseccomp: 2.5.5
+libselinux: 2.1.0
+libsemanage: 3.7
+libsepol: 11.0
+libserf: CRITICAL: No release was found
+libsigc++30: CRITICAL: No project found on GitHub for search query: libsigc++30
+libslirp: CRITICAL: No release was found
+libsmi: CRITICAL: No release was found
+libsndfile: 1.2.2
+libsodium: 1.0.20
+libsolv: 0.7.30
+libsoup: 3.6.0
+libssh: 1.11.0
+libssh2: 1.11.0
+libstoragemgmt: 1.10.1
+libtalloc: CRITICAL: No release was found
+libtar: 1.2.20
+libtasn1: 4.19.0
+libtiff: CRITICAL: No release was found
+libtirpc: 1.2.6
+libtool: CRITICAL: No release was found
+libtraceevent: CRITICAL: No release was found
+libunistring: CRITICAL: No release was found
+libunwind: 1.8.1
+liburing: 2.7
+libusb: 1.0.27
+libuv: 1.49.0
+libvirt: 10.8.0
+libvirt-dbus: 1.4.1
+libvirt-glib: 5.0.0
+libvirt-java: 0.5.3
+libvirt-python: 10.8.0
+libvoikko: CRITICAL: No release was found
+libwacom: 2.13.0
+libwebp: 1.4.0
+libxcb: 1.17.0
+libxcrypt: 4.4.36
+libxfce4util: 4.19.3
+libxkbcommon: 1.7.0
+libxkbfile: CRITICAL: No release was found
+libxml++: CRITICAL: No project found on GitHub for search query: libxml++
+libxml2: 2.13.4
+libxshmfence: CRITICAL: No release was found
+libxslt: 1.1.42
+libyaml: 0.2.5
+libyang: 3.4.2
+libzip: 1.11.1
+linux-firmware: 20190514
+linuxptp: 4.4
+livepatch-5.15.102.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.102.1-1.cm2
+livepatch-5.15.102.1-3.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.102.1-3.cm2
+livepatch-5.15.107.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.107.1-1.cm2
+livepatch-5.15.110.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.110.1-1.cm2
+livepatch-5.15.111.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.111.1-1.cm2
+livepatch-5.15.112.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.112.1-1.cm2
+livepatch-5.15.112.1-2.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.112.1-2.cm2
+livepatch-5.15.116.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.116.1-1.cm2
+livepatch-5.15.116.1-2.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.116.1-2.cm2
+livepatch-5.15.122.1-2.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.122.1-2.cm2
+livepatch-5.15.125.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.125.1-1.cm2
+livepatch-5.15.125.1-2.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.125.1-2.cm2
+livepatch-5.15.126.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.126.1-1.cm2
+livepatch-5.15.131.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.131.1-1.cm2
+livepatch-5.15.131.1-3.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.131.1-3.cm2
+livepatch-5.15.94.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.94.1-1.cm2
+livepatch-5.15.95.1-1.cm2: CRITICAL: No project found on GitHub for search query: livepatch-5.15.95.1-1.cm2

@@ -1,0 +1,10 @@
+mailcap: deprecated
+net-tools: deprecated
+nvidia-docker2: nvidia says that this package should be considered deprecated (https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/arch-overview.html)
+openjade: Hasn't been updated in a long time but not marked as deprecated
+openssl-pkcs11: deprecated in favor of pkcs11-provider
+pcre: deprecated in favor for pcre2
+perl-CGI: deprecated
+perl-Digest-SHA1: deprecated in favor of perl-Digest-SHA
+perl-Crypt-SSLeay: deprecated in favor of Net::SSLeay
+perl-Pod-Parser: (Some functionality may still be in use, but it's recommended to use Pod::Simple for new projects)

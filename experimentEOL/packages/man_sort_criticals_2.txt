@@ -1,0 +1,16 @@
+infinipath-psm: deprecated
+initscripts: deprecated
+ipset: deprecated
+iptables: deprecated
+jasper: deprecated
+kf5: will get deprecated soon in favor of kf6
+kf5-ki18n: will get deprecated soon in favor of kf6
+kf5-kwidgetsaddons: will get deprecated soon in favor of kf6
+libXxf86vm: eol
+libdbi: eol
+libedit: eol
+libgsystem: pending deprecation in favor of libgsystem2, in 3.0 deprecated
+libgxim: eol
+libisofs: eol
+libnfnetlink: eol
+libslirp: deprecated

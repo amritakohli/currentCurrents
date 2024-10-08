@@ -1,0 +1,244 @@
+rubygem-faraday-net_http: CRITICAL: No project found on GitHub for search query: rubygem-faraday-net_http
+rubygem-faraday-net_http_persistent: CRITICAL: No project found on GitHub for search query: rubygem-faraday-net_http_persistent
+rubygem-faraday-patron: CRITICAL: No project found on GitHub for search query: rubygem-faraday-patron
+rubygem-faraday-rack: CRITICAL: No project found on GitHub for search query: rubygem-faraday-rack
+rubygem-faraday-retry: CRITICAL: No project found on GitHub for search query: rubygem-faraday-retry
+rubygem-ffi: 0.6.3
+rubygem-fiber-local: CRITICAL: No project found on GitHub for search query: rubygem-fiber-local
+rubygem-fluent-config-regexp-type: CRITICAL: No project found on GitHub for search query: rubygem-fluent-config-regexp-type
+rubygem-fluent-logger: 0.6.2
+rubygem-fluent-plugin-elasticsearch: CRITICAL: No release was found
+rubygem-fluent-plugin-kafka: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-kafka
+rubygem-fluent-plugin-prometheus: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-prometheus
+rubygem-fluent-plugin-prometheus_pushgateway: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-prometheus_pushgateway
+rubygem-fluent-plugin-record-modifier: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-record-modifier
+rubygem-fluent-plugin-rewrite-tag-filter: CRITICAL: No release was found
+rubygem-fluent-plugin-s3: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-s3
+rubygem-fluent-plugin-systemd: CRITICAL: No release was found
+rubygem-fluent-plugin-td: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-td
+rubygem-fluent-plugin-webhdfs: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-webhdfs
+rubygem-fluent-plugin-windows-exporter: CRITICAL: No project found on GitHub for search query: rubygem-fluent-plugin-windows-exporter
+rubygem-fluentd: 0.14.9
+rubygem-hirb: CRITICAL: No project found on GitHub for search query: rubygem-hirb
+rubygem-hocon: 1.2.4
+rubygem-hoe: 1.0.0
+rubygem-hpricot: 4.3
+rubygem-http_parser.rb: CRITICAL: No release was found
+rubygem-httpclient: 2.8.2.4
+rubygem-introspection: 0.0.3
+rubygem-io-event: CRITICAL: No project found on GitHub for search query: rubygem-io-event
+rubygem-jmespath: CRITICAL: No project found on GitHub for search query: rubygem-jmespath
+rubygem-ltsv: WARNING: Waiting 20 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: rubygem-ltsv
+rubygem-metaclass: 0.0.4
+rubygem-mini_portile2: CRITICAL: No project found on GitHub for search query: rubygem-mini_portile2
+rubygem-minitest: 1.7.2
+rubygem-mocha: CRITICAL: No release was found
+rubygem-msgpack: CRITICAL: No release was found
+rubygem-multi_json: 4.3
+rubygem-multipart-post: 2.0.0
+rubygem-mustache: 4.3
+rubygem-net-http-persistent: CRITICAL: No release was found
+rubygem-nio4r: CRITICAL: No project found on GitHub for search query: rubygem-nio4r
+rubygem-nokogiri: 1.4.3.1
+rubygem-oj: CRITICAL: No release was found
+rubygem-parallel: 1.9.0
+rubygem-power_assert: CRITICAL: No release was found
+rubygem-prometheus-client: CRITICAL: No project found on GitHub for search query: rubygem-prometheus-client
+rubygem-protocol-hpack: CRITICAL: No project found on GitHub for search query: rubygem-protocol-hpack
+rubygem-protocol-http: CRITICAL: No project found on GitHub for search query: rubygem-protocol-http
+rubygem-protocol-http1: CRITICAL: No project found on GitHub for search query: rubygem-protocol-http1
+rubygem-protocol-http2: CRITICAL: No project found on GitHub for search query: rubygem-protocol-http2
+rubygem-public_suffix: CRITICAL: No release was found
+rubygem-puppet-resource_api: CRITICAL: No project found on GitHub for search query: rubygem-puppet-resource_api
+rubygem-rake: 5.22.1
+rubygem-rake-compiler: 0.7.5
+rubygem-rdiscount: 4.3
+rubygem-rdkafka: CRITICAL: No project found on GitHub for search query: rubygem-rdkafka
+rubygem-rexml: CRITICAL: No project found on GitHub for search query: rubygem-rexml
+rubygem-ronn: 0.7.3
+rubygem-rspec: CRITICAL: No release was found
+rubygem-ruby-kafka: CRITICAL: No project found on GitHub for search query: rubygem-ruby-kafka
+rubygem-ruby-progressbar: WARNING: Waiting 15 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: rubygem-ruby-progressbar
+rubygem-rubyzip: 1.2.0
+rubygem-semantic_puppet: CRITICAL: No release was found
+rubygem-serverengine: CRITICAL: No project found on GitHub for search query: rubygem-serverengine
+rubygem-sigdump: CRITICAL: No release was found
+rubygem-strptime: CRITICAL: No project found on GitHub for search query: rubygem-strptime
+rubygem-systemd-journal: CRITICAL: No release was found
+rubygem-td: 0.3.3
+rubygem-td-client: CRITICAL: No project found on GitHub for search query: rubygem-td-client
+rubygem-td-logger: CRITICAL: No project found on GitHub for search query: rubygem-td-logger
+rubygem-test-unit: 0.0.4
+rubygem-thor: CRITICAL: No release was found
+rubygem-timers: 4.1.1
+rubygem-tzinfo: CRITICAL: No release was found
+rubygem-tzinfo-data: CRITICAL: No release was found
+rubygem-webhdfs: CRITICAL: No project found on GitHub for search query: rubygem-webhdfs
+rubygem-webrick: CRITICAL: No project found on GitHub for search query: rubygem-webrick
+rubygem-yajl-ruby: CRITICAL: No release was found
+rubygem-zip-zip: CRITICAL: No release was found
+rust: 1.81.0
+sanlock: 0.4.5
+scons: 4.8.1
+scrub: CRITICAL: No release was found
+sdbus-cpp: 2.0.0
+seabios: 1.16.3
+secilc: 3.1+git2
+sed: CRITICAL: No release was found
+selinux-policy: 41.20
+setools: 1.3
+sg3_utils: 1.48
+sgabios: CRITICAL: No release was found
+sgml-common: CRITICAL: No release was found
+sgx-backwards-compatability: WARNING: Waiting 8 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: sgx-backwards-compatability
+shadow-utils: 1.0.0
+shared-mime-info: 0.1
+sharutils: CRITICAL: No release was found
+shim: 1.0.2
+shim-unsigned: 15.8
+shim-unsigned-aarch64: 4.3
+shim-unsigned-x64: 8
+sisu: 1.16.6
+skopeo: 1.16.1
+slang: 2024.13
+sleuthkit: 4.12.1
+slf4j: 2.0.16
+smartmontools: 7.4
+snappy: 1.2.1
+socat: 1.7.3.3
+socket_wrapper: CRITICAL: No release was found
+softhsm: 2.6.1
+sos: CRITICAL: No release was found
+span-lite: 0.11.0
+sqlite: 3.46.1
+squashfs-tools: 4.14
+sriov-network-device-plugin: 3.7.0
+sscg: 3.0.5
+sshpass: CRITICAL: No release was found
+strace: 6.11
+strongswan: 5.9.14
+subversion: 1.14.3
+sudo: CRITICAL: No release was found
+supermin: 5.3.5
+swig: 4.2.1
+swupdate: 2024.5.2
+symlinks: 1.4.3
+sympy: 1.13.3
+sysbench: 1.0.20
+syslinux: CRITICAL: No release was found
+syslog-ng: 4.8.1
+sysstat: 12.7.6
+systemd: 256.6
+systemtap: CRITICAL: No release was found
+tar: 4.0.6
+tboot: CRITICAL: No release was found
+tcl: 0.4.0
+tcpdump: 4.99.5
+tcsh: CRITICAL: No release was found
+tdnf: 3.5.8
+telegraf: 4.16.3
+tensorflow: 2.17.0
+terraform: 1.9.7
+texinfo: CRITICAL: No release was found
+tidy: 8406073
+time: CRITICAL: No release was found
+tini: 0.19.0
+tinycdb: 0.2
+tinyxml2: 10.0.0
+tmux: 3.5
+tokyocabinet: CRITICAL: No release was found
+toml11: 4.2.0
+tpm2-abrmd: 3.0.0
+tpm2-tools: 5.7
+tpm2-tss: 4.1.3
+tracelogging: 1.2.2
+traceroute: 0.8.1
+tree: 0.24.1
+trousers: 3.0.2
+ttembed: 1.1
+tuna: 7.5.2
+tuned: 2.24.0
+tzdata: 1.1.2
+uclibc-ng: 1.0.47
+ucx: 1.17.0
+uid_wrapper: CRITICAL: No release was found
+unbound: WARNING: Waiting 2 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: unbound
+unixODBC: 2.3.12
+unzip: 0.1.1
+usbip: 4.3.0
+usbredir: CRITICAL: No release was found
+usbutils: 17
+userspace-rcu: 0.14.1
+usrsctp: 0.9.5.0
+utf8proc: 2.9.0
+util-linux: 2.40.2
+uuid: 11.0.0
+vala: CRITICAL: No release was found
+valgrind: 3.23.0
+verity-read-only-root: CRITICAL: No project found on GitHub for search query: verity-read-only-root
+vim: 9.1.89
+virglrenderer: CRITICAL: No release was found
+virt-what: CRITICAL: No release was found
+virtiofsd: 1.0
+vitess: 20.0.2
+vnstat: 2.12
+vsftpd: CRITICAL: No release was found
+vte291: 9.2
+vulkan-headers: 1.0.12
+vulkan-loader: 1.1.85.0
+wayland: CRITICAL: No release was found
+wayland-protocols: CRITICAL: No release was found
+websocketpp: 0.8.2
+wget: CRITICAL: No release was found
+which: 3.13.3
+wireguard-tools: 1.0.20210914
+wireless-regdb: CRITICAL: No release was found
+words: CRITICAL: No release was found
+wpa_supplicant: CRITICAL: No release was found
+xcb-proto: 1.11
+xcursor-themes: 1.0.7
+xerces-c: 3.2.5
+xfsprogs: 6.10.1
+xinetd: CRITICAL: No release was found
+xkeyboard-config: 1.0
+xml-commons-apis: CRITICAL: No release was found
+xml-commons-resolver: CRITICAL: No release was found
+xmlsec1: 1.1.2.37.2
+xmlstarlet: 1.6.8
+xmlto: 0.13.0
+xmltoman: CRITICAL: No release was found
+xmvn: CRITICAL: No release was found
+xorg-x11-apps: CRITICAL: No release was found
+xorg-x11-drv-libinput: 9.2
+xorg-x11-font-utils: CRITICAL: No release was found
+xorg-x11-proto-devel: CRITICAL: No release was found
+xorg-x11-server: CRITICAL: No release was found
+xorg-x11-server-utils: CRITICAL: No release was found
+xorg-x11-util-macros: CRITICAL: No release was found
+xorg-x11-xauth: CRITICAL: No release was found
+xorg-x11-xbitmaps: CRITICAL: No release was found
+xorg-x11-xinit: CRITICAL: No release was found
+xorg-x11-xkb-utils: CRITICAL: No release was found
+xorg-x11-xtrans-devel: CRITICAL: No release was found
+xxhash: 0.8.2
+xz: 1.1.3
+xz-java: 1.9
+yajl: 2.1.0
+yaml-cpp: WARNING: Waiting 4 seconds for API quota reinstatement.
+CRITICAL: No project found on GitHub for search query: yaml-cpp
+yasm: 1.3.0
+yp-tools: 4.2.3
+ypbind: 2.7.2
+zchunk: 1.5.1
+zerofree: CRITICAL: No release was found
+zeromq: 4.3.5
+zfs-fuse: CRITICAL: No release was found
+zip: 1.4.1
+zipper: 1.0.3
+zlib: 1.3.1
+zsh: 0.7.0
+zstd: 1.5.6
