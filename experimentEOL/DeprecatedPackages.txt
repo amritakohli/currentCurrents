@@ -1,40 +1,32 @@
-acl: deprecated
-blobfuse: deprecated
-build-essential: no longer recommended for use and is no longer being maintained
-cppunit: deprecated
-cups: has been marked for deprecation
-dbus-glib: deprecated but receives minimal maintenance and security fixes for the benefit of projects that still rely on it.
-dhcp: deprecated
-docbook-style-dsssl: deprecated
-ebtables: no longer recommended for use and is no longer being maintained
-fakeroot: deprecated
-fontpackages: deprecated
-grubby: deprecated
-infinipath-psm: deprecated
-initscripts: deprecated
-iptables: deprecated
-kf5: will get deprecated soon in favor of kf6
-kf5-ki18n: will get deprecated soon in favor of kf6
-kf5-kwidgetsaddons: will get deprecated soon in favor of kf6
-libXxf86vm: deprecated
-libdbi: deprecated
-libgsystem: pending deprecation in favor of libgsystem2, in 3.0 deprecated
-libgxim: deprecated
-libnfnetlink: deprecated
-libslirp: deprecated
-mailcap: deprecated
-net-tools: deprecated
+blobfuse: not deprecated but recommended to move to blobfuse2 (https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-what-is#for-blobfuse-v1-users) 
+dbus-glib: deprecated but receives minimal maintenance and security fixes for the benefit of projects that still rely on it (https://github.com/d-bus/dbus-glib)
+dhcp: deprecated (https://www.isc.org/dhcp/) 
+docbook-style-dsssl: deprecated (https://github.com/docbook/dsssl) 
+ebtables: no longer recommended for use and is no longer being maintained (https://github.com/irgeek/ebtables) 
+fakeroot: hasn't been updates for 11 years, has been considered by Homebrew, doesn't work on newer systems (https://github.com/Homebrew/homebrew-core/issues/79934)
+fontpackages: hasn't been updates for 10 years, considered deprecated in RedHat (https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/7.6_release_notes/chap-red_hat_enterprise_linux-7.6_release_notes-deprecated_packages#chap-Red_Hat_Enterprise_Linux-7.6_Release_Notes-Deprecated_Packages)
+grubby: deprecated (https://github.com/rhboot/grubby)
+infinipath-psm: deprecated (https://github.com/intel/psm)
+initscripts: considered legacy, because many distributions moved to systemd for init and service management. The repo still has support (https://github.com/fedora-sysv/initscripts)
+iptables: deprecated but still supported, suggested to move to nftables (https://access.redhat.com/solutions/6739041#:~:text=The%20ipset%20and%20iptables%2Dnft%20packages%20have%20been%20deprecated%20in,new%20deployments%20is%20not%20recommended.)
+kf5: not deprecated but there is a move towards kf6 (https://planet.kde.org/friedrich-kossebau-2022-07-28-kf5s-big-ramp-of-deprecations-to-kf6/)
+kf5-ki18n: not deprecated but there is a move towards kf6 (English - Planet KDE)
+kf5-kwidgetsaddons: not deprecated but there is a move towards kf6 (English - Planet KDE)
+libdbi: repository hasn't been updated for 15 years, considered deprecated in RedHat (https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/7.6_release_notes/chap-red_hat_enterprise_linux-7.6_release_notes-other_deprecated_functionality#chap-Red_Hat_Enterprise_Linux-7.6_Release_Notes-Other_Deprecated_Functionality)
+libdbi-drivers: repository hasn't been updated for 15 years, considered deprecated in RedHat (https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/7.6_release_notes/chap-red_hat_enterprise_linux-7.6_release_notes-other_deprecated_functionality#chap-Red_Hat_Enterprise_Linux-7.6_Release_Notes-Other_Deprecated_Functionality)
+libgsystem: pending deprecation in favor of libgsystem2 (https://github.com/Distrotech/libgsystem)
+libgxim: repo hasn't been updated for 13 years, considered deprecated in RedHat (https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/7.6_release_notes/chap-red_hat_enterprise_linux-7.6_release_notes-deprecated_packages#chap-Red_Hat_Enterprise_Linux-7.6_Release_Notes-Deprecated_Packages)
+libslirp: deprecated and recommended to use libvdeslirp instead (https://github.com/rd235/libslirp)
+mailcap: deprecated (https://docs.python.org/3/library/mailcap.html)
+net-tools: deprecated but maintained (https://archlinux.org/news/deprecation-of-net-tools/)
 nvidia-docker2: nvidia says that this package should be considered deprecated (https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/arch-overview.html)
-openjade: Hasn't been updated in a long time but not marked as deprecated
-openssl-pkcs11: deprecated in favor of pkcs11-provider
-pcre: deprecated in favor for pcre2
-perl-CGI: deprecated
-perl-Digest-SHA1: deprecated in favor of perl-Digest-SHA
-perl-Crypt-SSLeay: deprecated in favor of Net::SSLeay
-perl-Pod-Parser: (Some functionality may still be in use, but it's recommended to use Pod::Simple for new projects)
-python-pytest-expect: hasn't been updated since 2016
-python-pytest-forked: marked as a legacy plugin
-rubygem-ruby-kafka: deprecated
-subversion: deprecated
-xinetd: getting deprecated and being replaced by systemd
-zfs-fuse: deprecated
+openjade: hasn't been updated in a long time but not marked as deprecated (https://github.com/OpenJade)
+openssl-pkcs11: not deprecated but OpenSSL recommends move towards pkcs11-provider (https://gitlab.isc.org/isc-projects/bind9/-/issues/2996)
+pcre: is being deprecated in favor for pcre2 (https://docs.fedoraproject.org/sq/fedora/f38/release-notes/sysadmin/Distribution/)
+perl-CGI: deprecated (https://perlhacks.com/2015/12/long-death-cgi-pm/#:~:text=CGI.pm%20has%20been%20removed,CGI%20is%20a%20dying%20technology.)
+perl-Digest-SHA1: deprecated in favor of perl-Digest-SHA (https://wiki.debian.org/Teams/DebianPerlGroup/OpenTasks/Transitions/DigestSHA1ToDigestSHA)
+perl-Crypt-SSLeay: repo hasn't been updated for 7 years, it the package is still supported but mostly to maintain the dependent software (https://metacpan.org/pod/Crypt::SSLeay#DO-YOU-NEED-Crypt::SSLeay?)
+perl-Pod-Parser: considered legacy, some functionality may still be in use, but it's recommended to use Pod::Simple for new projects (https://metacpan.org/pod/Pod::Parser#DESCRIPTION)
+python-pytest-forked: future maintenance beyond the bare minimum is not planned until a new maintainer is found (https://pypi.org/project/pytest-forked/)
+rubygem-ruby-kafka: deprecated, may receive security patches but hasn't been updated for 2 years (https://github.com/zendesk/ruby-kafka)
+xinetd: repo hasn't been updated for 9 years, not deprecated but got replaced on many Linux systems (https://www.faqforge.com/linux/is-using-xinetd-on-linux-deprecated/)
